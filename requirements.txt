@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit>=1.32.0
+pytrends>=4.9.2
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+plotly>=5.18.0
+apscheduler>=3.10.4
+pandas>=2.0.0
